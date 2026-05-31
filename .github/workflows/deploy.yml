@@ -24,12 +24,15 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: asgn5/hello-framework/package-lock.json
       - run: npm ci
+        working-directory: asgn5/hello-framework
       - run: npm run build
+        working-directory: asgn5/hello-framework
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: asgn5/hello-framework/dist
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
