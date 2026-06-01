@@ -15,8 +15,9 @@ Additionally, the size encoding can be a bit distracting to the viewer when they
 The external source I used was a dataset from a GitHub titled “Awesome Public Datasets” which were friendly with this project and open source so they were easy to access. The actual dataset used to develop this project was a portion of ZipCheckup’s data focusing on water quality across the United States through the representation of zipcodes. 
 
 ---
-
 # Sources and Citations
+
+<br>
 
 # Datasets
 
@@ -28,11 +29,15 @@ Akulov, A. (2026). US Water Quality Data by ZIP Code [Dataset]. ZipCheckup. http
 
 # Citations
 
-## Source 1 {#source-1}
+<a id ="source-1"></a>
+
+## Source 1 
 
 “Basic Information about Lead in Drinking Water.” EPA, Environmental Protection Agency, 24 Feb. 2026, www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water.
 
-## Source 2 {#source-2}
+<a id="source-2"></a>s
+
+## Source 2 
 
 “Lead and Copper Rule.” EPA, Environmental Protection Agency, 2 Jan. 2026, www.epa.gov/dwreginfo/lead-and-copper-rule.
 
