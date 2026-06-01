@@ -35,7 +35,7 @@ Akulov, A. (2026). US Water Quality Data by ZIP Code [Dataset]. ZipCheckup. http
 
 “Basic Information about Lead in Drinking Water.” EPA, Environmental Protection Agency, 24 Feb. 2026, www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water.
 
-<a id="source-2"></a>s
+<a id="source-2"></a>
 
 ## Source 2 
 
